@@ -1,5 +1,4 @@
 import { AlertCircle } from 'lucide-react'
-import type { ProcessingResult } from '../../types'
 
 const MissingFieldsWarning = ({ result }: { result: ProcessingResult }) => {
     return (

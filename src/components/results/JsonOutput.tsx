@@ -1,4 +1,3 @@
-import type { ProcessingResult } from "../../types"
 
 const JsonOutput = ({ result }: { result: ProcessingResult }) => {
     return (

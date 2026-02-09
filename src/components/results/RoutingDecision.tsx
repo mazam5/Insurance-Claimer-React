@@ -1,6 +1,5 @@
 import { AlertCircle, ArrowRight, CheckCircle, FileText, XCircle } from 'lucide-react';
 import React from 'react'
-import type { ProcessingResult } from '../../types';
 
 const RoutingDecision = ({ result }: { result: ProcessingResult }) => {
     const getRouteColor = (route: RouteType): string => {
