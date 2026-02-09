@@ -486,6 +486,7 @@ class FieldExtractor {
     return this.extractMultiLineField(
       [
         /REMARKS\s*\(ACORD 101, Additional Remarks Schedule, may be attached if more space is required\)\s*([\s\S]*?)(?=\n[A-Z][A-Z\s]+:|\nOTHER INSURANCE|\nREPORTED BY|\nREPORTED TO|$)/i,
+        /REMARKS:?\s*([^\n]+)/i,
       ],
       [],
     );

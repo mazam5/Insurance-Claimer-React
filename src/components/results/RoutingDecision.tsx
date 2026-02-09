@@ -4,12 +4,12 @@ import React from 'react'
 const RoutingDecision = ({ result }: { result: ProcessingResult }) => {
     const getRouteColor = (route: RouteType): string => {
         switch (route) {
-            case 'Fast-Track': return 'text-green-600 bg-green-50 border-green-200';
-            case 'Manual Review': return 'text-yellow-600 bg-yellow-50 border-yellow-200';
-            case 'Investigation Queue': return 'text-red-600 bg-red-50 border-red-200';
-            case 'Specialist Queue': return 'text-blue-600 bg-blue-50 border-blue-200';
-            case 'Standard Processing': return 'text-purple-600 bg-purple-50 border-purple-200';
-            default: return 'text-gray-600 bg-gray-50 border-gray-200';
+            case 'Fast-Track': return 'text-green-600 bg-green-50 dark:bg-green-50 border-green-200';
+            case 'Manual Review': return 'text-yellow-600 bg-yellow-50 dark:bg-yellow-50 border-yellow-200';
+            case 'Investigation Queue': return 'text-red-600 bg-red-50 dark:bg-red-50 border-red-200';
+            case 'Specialist Queue': return 'text-blue-600 bg-blue-50 dark:bg-blue-50 border-blue-200';
+            case 'Standard Processing': return 'text-purple-600 bg-purple-50 dark:bg-purple-50 border-purple-200';
+            default: return 'text-gray-600 bg-gray-50 border-gray-200 dark:bg-input/30 dark:border-input dark:hover:bg-input/50';
         }
     };
 
@@ -23,7 +23,7 @@ const RoutingDecision = ({ result }: { result: ProcessingResult }) => {
         }
     };
     return (
-        <div className={`rounded-lg border-2 p-6 ${getRouteColor(result.recommendedRoute as RouteType)}`}>
+        <div className={`rounded-lg shadow border-2 p-6 ${getRouteColor(result.recommendedRoute as RouteType)}`}>
             <div className="flex items-center gap-3 mb-3">
                 {getRouteIcon(result.recommendedRoute as RouteType)}
                 <h2 className="text-2xl font-bold">Recommended Route: {result.recommendedRoute}</h2>

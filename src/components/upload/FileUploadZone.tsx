@@ -4,8 +4,8 @@ const FileUploadZone = ({ inputRef, handleFileUpload, onDrop, isDragging, setIsD
     return (
         <div
             className={`border-2 border-dashed rounded-lg p-8 text-center mb-6 cursor-pointer transition-colors ${isDragging
-                ? "border-indigo-500 bg-indigo-50"
-                : "border-gray-300 hover:border-indigo-400"
+                ? "border-indigo-500 bg-indigo-50 hover:border-indigo-600 dark:hover:border-indigo-600 dark:bg-indigo-600"
+                : "border-gray-300 hover:border-indigo-400 dark:hover:border-indigo-400 dark:bg-input/30 dark:border-input dark:hover:bg-input/50"
                 }`}
             onClick={() => inputRef.current?.click()}
             onDragOver={(e) => {
@@ -19,8 +19,8 @@ const FileUploadZone = ({ inputRef, handleFileUpload, onDrop, isDragging, setIsD
             onKeyDown={(e) => e.key === "Enter" && inputRef.current?.click()}
         >
             <Upload className="w-12 h-12 text-gray-400 mx-auto mb-4" />
-            <p className="text-indigo-600 font-semibold">Upload FNOL document</p>
-            <p className="text-sm text-gray-500 mt-2">Click or drag & drop (TXT, PDF)</p>
+            <p className="text-indigo-600 dark:text-indigo-400 font-semibold">Upload FNOL document</p>
+            <p className="text-sm text-gray-500 mt-2 dark:text-gray-400">Click or drag & drop (TXT, PDF)</p>
             <input
                 ref={inputRef}
                 type="file"

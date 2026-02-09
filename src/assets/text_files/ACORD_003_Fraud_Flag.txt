@@ -1,0 +1,59 @@
+AUTOMOBILE LOSS NOTICE - ACORD 2
+CARRIER: National Auto Coverage Inc.
+NAIC CODE: 98765
+POLICY NUMBER: AUTO-2024-998877
+LINE OF BUSINESS: Personal Auto
+DATE OF LOSS: 12/05/2025
+TIME: 11:45 PM
+
+INSURED INFORMATION
+NAME OF INSURED: Michael Robert Thompson
+INSURED'S MAILING ADDRESS: 234 County Road 45, Rural Area, TX 75001
+DATE OF BIRTH: 03/22/1985
+PRIMARY PHONE: (555) 444-8888 CELL
+PRIMARY E-MAIL: mike.t@email.com
+
+LOCATION OF LOSS
+STREET: Highway 287, Mile Marker 45
+CITY, STATE, ZIP: Remote Location, TX 75002
+COUNTRY: USA
+
+POLICE OR FIRE DEPARTMENT CONTACTED: No
+REPORT NUMBER: None
+
+DESCRIPTION OF ACCIDENT:
+Single vehicle collision with guard rail on remote highway. Driver claims deer ran 
+into road causing swerve. However, no deer evidence found. Story has changed 
+multiple times during initial report. Damage pattern appears inconsistent with 
+described collision. Vehicle damage seems staged. Witness accounts conflict with 
+driver's version. Investigation needed due to fraud indicators.
+
+INSURED VEHICLE
+VEH #: 1
+YEAR: 2019
+MAKE: Toyota
+MODEL: Camry
+BODY TYPE: Sedan
+V.I.N.: 2HGFC2F59KH543210
+PLATE NUMBER: TX DEF5678 STATE: TX
+
+OWNER'S NAME AND ADDRESS: Michael Robert Thompson (same as insured)
+DRIVER'S NAME AND ADDRESS: Michael Robert Thompson (same as insured)
+DRIVER'S LICENSE NUMBER: T987-6543-2101 STATE: TX
+DATE OF BIRTH: 03/22/1985
+RELATION TO INSURED: Self
+
+DESCRIBE DAMAGE: Major front end damage, hood crushed, both headlights destroyed, 
+front bumper separated, radiator damaged, possible frame damage
+ESTIMATE AMOUNT: $45,000
+
+WITNESSES OR PASSENGERS: None available
+
+INJURED: None claimed
+
+REMARKS: Inconsistent timeline provided. Vehicle recently increased coverage amount 
+three weeks prior to incident. No police report filed despite severity. 
+Photos show damage inconsistent with guard rail impact.
+
+REPORTED BY: Michael Robert Thompson
+REPORTED TO: National Auto Coverage Claims

@@ -9,6 +9,7 @@ import RoutingDecision from './components/results/RoutingDecision';
 import FileUploadZone from './components/upload/FileUploadZone';
 import SampleDocumentSelector from './components/upload/SampleDocumentSelector';
 import ClaimProcessor from './core/processor/ClaimProcessor';
+import { ToggleTheme } from './components/theme/ToggleTheme';
 
 // ===========================
 // MAIN COMPONENT
@@ -76,14 +77,17 @@ const InsuranceClaimsAgent: React.FC = () => {
     };
 
     return (
-        <div className="min-h-screen bg-linear-to-br from-blue-50 to-indigo-100 p-6">
+        <div className="min-h-screen bg-linear-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800 p-6">
             <div className="max-w-6xl mx-auto">
-                <div className="bg-white rounded-lg shadow-lg p-8 mb-6">
-                    <div className="flex items-center gap-3 mb-2">
-                        <FileText className="w-8 h-8 text-indigo-600" />
-                        <h1 className="text-3xl font-bold text-gray-800">Insurance Claims Processing Agent</h1>
+                <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8 mb-6">
+                    <div className="flex justify-between">
+                        <div className="flex items-center gap-3 mb-2">
+                            <FileText className="w-8 h-8 text-indigo-600" />
+                            <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Insurance Claims Processing Agent</h1>
+                        </div>
+                        <ToggleTheme />
                     </div>
-                    <p className="text-gray-600 mb-6">Autonomous FNOL document analysis with intelligent routing</p>
+                    <p className="text-gray-600 dark:text-gray-400 mb-6">Autonomous FNOL document analysis with intelligent routing</p>
 
                     {/* Upload Section */}
                     <FileUploadZone inputRef={inputRef} handleFileUpload={handleFileUpload} onDrop={onDrop} isDragging={isDragging} setIsDragging={setIsDragging} />

@@ -1,0 +1,107 @@
+AUTOMOBILE LOSS NOTICE - ACORD 2
+CARRIER: Premier Auto Insurance Company
+NAIC CODE: 45678
+POLICY NUMBER: AUTO-2024-112233
+LINE OF BUSINESS: Personal Auto
+DATE OF LOSS: 12/07/2025
+TIME: 09:15 AM
+
+INSURED INFORMATION
+NAME OF INSURED: Emily Ann Davis
+INSURED'S MAILING ADDRESS: 567 Commonwealth Ave, Boston, MA 02101
+DATE OF BIRTH: 08/12/1988
+PRIMARY PHONE: (555) 222-3333 HOME
+SECONDARY PHONE: (555) 222-4444 CELL
+PRIMARY E-MAIL: emily.davis@email.com
+
+AGENCY INFORMATION
+AGENCY NAME: Boston Insurance Partners
+AGENCY CUSTOMER ID: AG-78901
+PHONE: (555) 888-7777
+
+LOCATION OF LOSS
+STREET: Intersection of Commonwealth Ave and Beacon Street
+CITY, STATE, ZIP: Boston, MA 02101
+COUNTRY: USA
+
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: BPD-2025-8901
+
+DESCRIPTION OF ACCIDENT:
+Multi-vehicle collision at major intersection. Third party driver ran red light 
+at high speed and struck insured's vehicle on driver's side. Significant impact. 
+Airbags deployed on both vehicles. Driver experienced immediate neck and back pain. 
+Complained of headache and dizziness. Transported to Massachusetts General Hospital 
+by ambulance. Initial diagnosis: cervical strain, possible concussion, lumbar contusion. 
+Currently undergoing evaluation. Other occupant (passenger) also injured.
+
+INSURED VEHICLE
+VEH #: 1
+YEAR: 2017
+MAKE: Tesla
+MODEL: Model S
+BODY TYPE: Sedan
+V.I.N.: 5YJSA1E26HF123456
+PLATE NUMBER: MA ABC789 STATE: MA
+
+OWNER'S NAME AND ADDRESS: Emily Ann Davis (same as insured)
+DRIVER'S NAME AND ADDRESS: Emily Ann Davis (same as insured)
+DRIVER'S LICENSE NUMBER: D123456789 STATE: MA
+DATE OF BIRTH: 08/12/1988
+RELATION TO INSURED: Self
+PURPOSE OF USE: Commuting to work
+USED WITH PERMISSION?: Y
+
+DESCRIBE DAMAGE: Driver side door crushed, B-pillar bent, side airbags deployed, 
+front airbags deployed, possible frame damage, side mirror destroyed, 
+windows shattered, front quarter panel damaged
+ESTIMATE AMOUNT: $18,500
+WHERE CAN VEHICLE BE SEEN?: Boston Auto Towing, 789 Industrial Blvd, Boston, MA
+WHEN CAN VEHICLE BE SEEN?: Business hours, Monday-Friday
+
+OTHER VEHICLE / PROPERTY DAMAGED
+VEH #: 2
+YEAR: 2020
+MAKE: Ford
+MODEL: F-150
+BODY TYPE: Pickup
+PLATE NUMBER: MA XYZ456 STATE: MA
+V.I.N.: 1FTFW1E89LKE12345
+
+DRIVER'S NAME AND ADDRESS: Robert James Williams
+Address: 890 Harbor Street, Boston, MA 02102
+PRIMARY PHONE: (555) 666-7777 CELL
+
+OWNER'S NAME AND ADDRESS: Robert James Williams (same as driver)
+
+DESCRIBE DAMAGE: Front bumper, hood, front right fender
+ESTIMATE AMOUNT: $8,200
+OTHER VEH/PROP INS?: Y
+CARRIER OR AGENCY NAME: ABC Insurance Company
+POLICY NUMBER: ABC-2024-667788
+
+WITNESSES OR PASSENGERS:
+NAME & ADDRESS: Jennifer Martinez (Passenger in insured vehicle)
+Address: 234 Newbury Street, Boston, MA 02101
+PHONE: (555) 333-4444
+EXTENT OF INJURY: Shoulder injury, bruising, minor cuts from glass
+VEH: INS VEH
+
+NAME & ADDRESS: Thomas Chen (Witness - pedestrian)
+Address: 456 Boylston Street, Boston, MA 02101
+PHONE: (555) 777-8888
+VEH: PED
+
+INJURED:
+1. Emily Ann Davis - Driver - Neck strain, back pain, possible concussion, dizziness
+2. Jennifer Martinez - Passenger - Shoulder injury, bruising, lacerations
+
+REMARKS: Both insured and passenger transported by ambulance. Medical records 
+being obtained. Police report indicates other driver at fault - ran red light. 
+Traffic camera footage available. Witness confirms other driver's fault. 
+Vehicle likely totaled due to frame damage and airbag deployment.
+
+OTHER INSURANCE ON VEHICLE - CARRIER: None
+
+REPORTED BY: Emily Ann Davis
+REPORTED TO: Premier Auto Insurance Claims Department

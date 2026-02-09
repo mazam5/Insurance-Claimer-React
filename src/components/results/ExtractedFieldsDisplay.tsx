@@ -1,5 +1,5 @@
 
-const MAX_LENGTH = 1000
+const MAX_LENGTH = 500
 
 const truncate = (value: string, max = MAX_LENGTH) =>
     value.length > max ? value.slice(0, max) + "…" : value
@@ -12,8 +12,8 @@ const ExtractedFieldsDisplay = ({
     formatFieldName: (key: string) => string
 }) => {
     return (
-        <div className="bg-white rounded-lg shadow-lg p-6">
-            <h3 className="text-xl font-bold text-gray-800 mb-4">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200 mb-4">
                 Extracted Fields
             </h3>
 
@@ -36,10 +36,10 @@ const ExtractedFieldsDisplay = ({
                             key={key}
                             className="border-l-4 border-indigo-400 pl-4 py-2"
                         >
-                            <div className="text-sm text-gray-500 font-medium capitalize">
+                            <div className="text-sm text-gray-500 dark:text-gray-400 font-medium capitalize">
                                 {formatFieldName(key)}
                             </div>
-                            <div className="text-gray-800 font-semibold wrap-break-word">
+                            <div className="text-gray-800 font-semibold wrap-break-word dark:text-gray-200">
                                 {displayValue}
                             </div>
                         </div>

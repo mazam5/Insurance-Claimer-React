@@ -1,0 +1,78 @@
+AUTOMOBILE LOSS NOTICE - ACORD 2
+CARRIER: Executive Auto Insurance Corp
+NAIC CODE: 23456
+POLICY NUMBER: AUTO-2024-445566
+LINE OF BUSINESS: Commercial Auto
+DATE OF LOSS: 12/08/2025
+TIME: 04:00 PM
+
+INSURED INFORMATION
+NAME OF INSURED: David Lee (Business Owner)
+INSURED'S MAILING ADDRESS: 789 Business Park Drive, Austin, TX 78701
+DATE OF BIRTH: 06/20/1975
+PRIMARY PHONE: (555) 111-2222 BUS
+SECONDARY PHONE: (555) 111-3333 CELL
+PRIMARY E-MAIL: david.lee@businesscorp.com
+
+AGENCY INFORMATION
+AGENCY NAME: Corporate Insurance Solutions
+AGENCY CUSTOMER ID: AG-99887
+PHONE: (555) 777-6666
+
+LOCATION OF LOSS
+STREET: 789 Business Park Drive (Company Parking Lot)
+CITY, STATE, ZIP: Austin, TX 78701
+COUNTRY: USA
+
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: APD-2025-7890
+
+DESCRIPTION OF ACCIDENT:
+Severe hailstorm caused extensive damage to company vehicle fleet. Multiple vehicles 
+damaged by large hail (2-3 inch diameter). Vehicle windows shattered, body panels 
+dented, paint damaged. Total of 5 company vehicles affected. Storm lasted 
+approximately 20 minutes. Weather service confirmed severe hail event. 
+Comprehensive coverage claim for fleet damage.
+
+INSURED VEHICLE
+VEH #: 1
+YEAR: 2023
+MAKE: Mercedes-Benz
+MODEL: Sprinter Van
+BODY TYPE: Commercial Van
+V.I.N.: WD3PE8CC5N9123456
+PLATE NUMBER: TX BUS123 STATE: TX
+
+OWNER'S NAME AND ADDRESS: BusinessCorp LLC
+Address: 789 Business Park Drive, Austin, TX 78701
+PRIMARY PHONE: (555) 111-2222 BUS
+
+DRIVER'S NAME AND ADDRESS: Not applicable - parked
+RELATION TO INSURED: Company fleet vehicle
+
+DESCRIBE DAMAGE: Windshield shattered, all side windows cracked, roof severely 
+dented (50+ dents), hood dented (30+ dents), side panels dented throughout, 
+paint chipped in multiple locations. Estimated total loss potential.
+ESTIMATE AMOUNT: $28,000 per vehicle x 5 vehicles = $140,000 total claim
+WHERE CAN VEHICLE BE SEEN?: 789 Business Park Drive, Austin, TX 78701
+WHEN CAN VEHICLE BE SEEN?: Business hours, Monday-Friday 8 AM - 6 PM
+
+REMARKS: This claim covers 5 commercial vehicles damaged in same incident:
+Vehicle 1: 2023 Mercedes Sprinter Van - VIN WD3PE8CC5N9123456 - Est. $28,000
+Vehicle 2: 2023 Mercedes Sprinter Van - VIN WD3PE8CC5N9234567 - Est. $27,500
+Vehicle 3: 2022 Ford Transit Van - VIN 1FTBW2XG8NKA45678 - Est. $25,000
+Vehicle 4: 2022 Ford Transit Van - VIN 1FTBW2XG8NKA56789 - Est. $24,000
+Vehicle 5: 2024 Ram ProMaster - VIN 3C6TRVDG3RE123456 - Est. $35,500
+
+Total estimated damage: $140,000
+
+Weather documentation provided. Photos of all damaged vehicles attached. 
+National Weather Service report confirms severe hail event. Multiple claims 
+expected in area from same storm. All vehicles maintained according to schedule. 
+No previous damage to any vehicles.
+
+OTHER INSURANCE ON VEHICLE - CARRIER: None
+POLICY NUMBER: AUTO-2024-445566 covers all 5 vehicles
+
+REPORTED BY: David Lee, Fleet Manager
+REPORTED TO: Executive Auto Insurance Claims Department

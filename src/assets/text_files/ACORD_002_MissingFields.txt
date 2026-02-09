@@ -1,0 +1,30 @@
+AUTOMOBILE LOSS NOTICE - ACORD 2
+CARRIER: Reliable Auto Insurance
+POLICY NUMBER: AUTO-2024-334455
+LINE OF BUSINESS: Personal Auto
+DATE OF LOSS: 11/28/2025
+
+INSURED INFORMATION
+NAME OF INSURED: Sarah Marie Johnson
+INSURED'S MAILING ADDRESS: 789 Maple Drive, Chicago, IL 60601
+PRIMARY E-MAIL: sarah.j@email.com
+
+LOCATION OF LOSS
+CITY, STATE, ZIP: Chicago, IL 60602
+COUNTRY: USA
+
+DESCRIPTION OF ACCIDENT:
+Slip and fall incident occurred at grocery store. Customer slipped on wet floor 
+without proper warning signage. Resulted in injury to back and hip area.
+
+INSURED VEHICLE
+YEAR: 2021
+MAKE: Ford
+MODEL: Explorer
+
+INJURED:
+NAME & ADDRESS: Sarah Marie Johnson
+EXTENT OF INJURY: Back pain, hip contusion, possible soft tissue damage
+
+REMARKS: Medical treatment sought at emergency room. X-rays performed. 
+No fractures found but significant bruising and pain.

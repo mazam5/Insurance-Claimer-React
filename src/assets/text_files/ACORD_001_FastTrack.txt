@@ -1,0 +1,92 @@
+AUTOMOBILE LOSS NOTICE - ACORD 2
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+POLICY NUMBER: AUTO-2024-789456
+LINE OF BUSINESS: Personal Auto
+DATE OF LOSS: 12/01/2025
+TIME: 02:30 PM
+
+INSURED INFORMATION
+NAME OF INSURED: John Michael Smith
+INSURED'S MAILING ADDRESS: 456 Oak Avenue, Springfield, IL 62704
+DATE OF BIRTH: 05/15/1980
+PRIMARY PHONE: (555) 123-4567 HOME
+PRIMARY E-MAIL: john.smith@email.com
+
+AGENCY INFORMATION
+AGENCY NAME: Premier Insurance Agency
+AGENCY CUSTOMER ID: AG-45678
+PHONE: (555) 999-8888
+
+LOCATION OF LOSS
+STREET: 123 Main Street, Parking Lot B
+CITY, STATE, ZIP: Springfield, IL 62701
+COUNTRY: USA
+
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: SPD-2025-4567
+
+DESCRIPTION OF ACCIDENT:
+Minor fender bender in parking lot. Vehicle backed into insured's car while parking. 
+No injuries reported. Driver was distracted by phone. Small dent on rear bumper, 
+scratches on paint. Weather conditions were clear, dry pavement.
+
+INSURED VEHICLE
+VEH #: 1
+YEAR: 2020
+MAKE: Honda
+MODEL: Accord
+BODY TYPE: Sedan
+V.I.N.: 1HGBH41JXMN109186
+PLATE NUMBER: IL ABC1234 STATE: IL
+
+OWNER'S NAME AND ADDRESS: John Michael Smith (same as insured)
+DRIVER'S NAME AND ADDRESS: John Michael Smith (same as insured)
+DRIVER'S LICENSE NUMBER: S123-4567-8901 STATE: IL
+DATE OF BIRTH: 05/15/1980
+RELATION TO INSURED: Self
+PURPOSE OF USE: Personal
+USED WITH PERMISSION?: Y
+
+DESCRIBE DAMAGE: Rear bumper dent approximately 6 inches, paint scratches, 
+minor damage to rear light housing
+ESTIMATE AMOUNT: $3,500
+WHERE CAN VEHICLE BE SEEN?: 456 Oak Avenue, Springfield, IL 62704
+WHEN CAN VEHICLE BE SEEN?: Weekdays after 5 PM, weekends anytime
+
+OTHER VEHICLE / PROPERTY DAMAGED
+VEH #: 2
+YEAR: 2019
+MAKE: Toyota
+MODEL: RAV4
+BODY TYPE: SUV
+PLATE NUMBER: IL XYZ9876 STATE: IL
+V.I.N.: 2T3WFREV5KW123456
+
+DRIVER'S NAME AND ADDRESS: Jane Elizabeth Doe
+Address: 789 Elm Street, Springfield, IL 62702
+PRIMARY PHONE: (555) 987-6543 CELL
+PRIMARY E-MAIL: jane.doe@email.com
+
+OWNER'S NAME AND ADDRESS: Jane Elizabeth Doe (same as driver)
+
+DESCRIBE DAMAGE: Minor front bumper scratches
+ESTIMATE AMOUNT: $800
+OTHER VEH/PROP INS?: Y
+CARRIER OR AGENCY NAME: Metro Insurance Group
+POLICY NUMBER: MTR-2024-556677
+
+WITNESSES OR PASSENGERS:
+NAME & ADDRESS: Robert Williams, 321 Pine Street, Springfield, IL 62703
+PHONE: (555) 444-5555
+VEH: OTH VEH
+
+INJURED: None
+
+REMARKS: All parties cooperative. Photos taken at scene. No dispute on fault. 
+Other driver accepted responsibility.
+
+OTHER INSURANCE ON VEHICLE - CARRIER: None
+
+REPORTED BY: John Michael Smith
+REPORTED TO: SafeGuard Insurance Claims Department
